@@ -1,7 +1,7 @@
 {
  "skip": false,
  "date": "2026-07-15",
- "caption": "⚽ 오늘의 축구 브리핑 | 2026.07.15 (수)\n\n오늘의 축구 소식을 정리해 드립니다. 주요 월드컵 소식부터 한국 선수들의 이적 소식까지 한눈에 확인하세요.\n\n1. 월드컵 4강 대진 확정, 잉글랜드 vs 아르헨티나\n2. 김민재, 바이에른 뮌헨 잔류 확정\n3. 황인범, FC포르투 이적 임박\n4. 스페인 야말, 월드컵 4강 앞두고 소신 발언\n5. 월드컵 4강 진출국 선수 소속 리그 분석\n6. 조진호, 튀르키예 2부리그 임대 이적\n7. 노르웨이 대표팀, 월드컵 8강 후 금의환향\n8. 축구협회, 현대가 더비 오심 논란에 입장\n9. 손흥민, LAFC전 출전 준비\n\n📌 더 많은 소식은 @todaysoccer_kr\n\n#축구 #축구뉴스 #해외축구 #TODAYSOCCER #손흥민 #SonHeungmin #김민재 #EPL #프리미어리그 #이적시장 #국가대표 #대한민국축구 #축구소식",
+ "caption": "⚽ 오늘의 축구 브리핑 | 2026.07.15 (수)\n\n오늘의 축구 소식을 정리해 드립니다. 주요 월드컵 소식부터 한국 선수들의 이적설까지 한눈에 확인하세요.\n\n1. 월드컵 4강 대진 확정, 잉글랜드-아르헨티나 격돌\n2. 스페인 야말, 프랑스와의 4강전 앞두고 자신감\n3. 김민재, 바이에른 뮌헨 잔류 확정\n4. 이강인, 아틀레티코 마드리드 이적 임박\n5. 황인범, 포르투갈 명문 FC포르투 이적 유력\n6. 조진호, 튀르키예 2부리그 임대 이적\n7. 축구협회, 현대가 더비 판정 논란에 '정심' 판정\n8. 월드컵 4강 진출국 선수 소속 리그 분석\n\n📌 더 많은 소식은 @todaysoccer_kr\n\n#축구 #축구뉴스 #해외축구 #TODAYSOCCER #이강인 #김민재 #EPL #프리미어리그 #이적시장 #국가대표 #대한민국축구 #손흥민 #축구소식",
  "images": [
   "https://raw.githubusercontent.com/jjun01322/soccer-insta-cards/main/out/2026-07-15/00_cover.jpg",
   "https://raw.githubusercontent.com/jjun01322/soccer-insta-cards/main/out/2026-07-15/01_news.jpg",
@@ -11,8 +11,7 @@
   "https://raw.githubusercontent.com/jjun01322/soccer-insta-cards/main/out/2026-07-15/05_news.jpg",
   "https://raw.githubusercontent.com/jjun01322/soccer-insta-cards/main/out/2026-07-15/06_news.jpg",
   "https://raw.githubusercontent.com/jjun01322/soccer-insta-cards/main/out/2026-07-15/07_news.jpg",
-  "https://raw.githubusercontent.com/jjun01322/soccer-insta-cards/main/out/2026-07-15/08_news.jpg",
-  "https://raw.githubusercontent.com/jjun01322/soccer-insta-cards/main/out/2026-07-15/09_news.jpg"
+  "https://raw.githubusercontent.com/jjun01322/soccer-insta-cards/main/out/2026-07-15/08_news.jpg"
  ],
  "files": [
   "out/2026-07-15/00_cover.jpg",
@@ -23,12 +22,12 @@
   "out/2026-07-15/05_news.jpg",
   "out/2026-07-15/06_news.jpg",
   "out/2026-07-15/07_news.jpg",
-  "out/2026-07-15/08_news.jpg",
-  "out/2026-07-15/09_news.jpg"
+  "out/2026-07-15/08_news.jpg"
  ],
  "candidate_keys": [
   "7c8d22739fd25ded",
   "850171e835c7713b",
+  "1b52d3b86bd0f957",
   "2a21f3e855b65d99",
   "fa0e6ad3128aa696",
   "994d4ec7016827a8",
@@ -38,18 +37,17 @@
   "1bea9bdf5de361c0",
   "68a8b3b8bd8f8a02",
   "a1aaf2d0638686ee",
+  "209f871d4517a956",
+  "b5ab55626c2485b2",
   "906690ac6f60054b",
   "e5caf6aa608aac2e",
-  "76497c17900ef340",
+  "b3b00ebb0f16d8bb",
   "5036f8618fff6478",
   "f51306589f9605a0",
   "25b6b027a21d1a37",
   "1b83056c813ff588",
   "04b73148da144e0f",
-  "1ff9348dd7bc86ea",
-  "5d2432161a3a69c3",
-  "79b09f12297b9703",
-  "2906cc929ff0c9f9",
-  "4b5d801e99928e31"
+  "722968135de8a43e",
+  "f163ba88fbcb38be"
  ]
 }
